@@ -1,27 +1,136 @@
-# 💫 About Me:
-👋 Hey there! I’m Ahmed a Computer & Communication Engineer, ( i know programming and cyber security since i was a kid ). Also trades the markets. I love building smart tools, coding solutions, and turning data into action. Stick around for projects, experiments, and a peek into my tech + trading world!
+<!-- 🚀 Ahmed-GoCode | All-in-One Professional README -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ahmedgocode) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@38a)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Ahmed-GoCode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmad1mtik@gmail.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ekac) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ahmad_GoCode)
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e3a8a&height=120&section=header&text=Ahmed%20|%20GoCode&fontSize=50&fontColor=58a6ff&animation=twinkling&fontAlignY=35"/>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=flat&logo=alibabacloud&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat&labelColor=171717&logoColor=5cb85c) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=flat&logo=tampermonkey&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ahmed-GoCode&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ahmed-GoCode&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-GoCode&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 🌌 Ahmed | GoCode  
+Engineer • Coder • Cyber Explorer • Trader  
+*Turning ideas into tools, code into impact, and data into opportunities.*
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ahmed-GoCode&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Trading+Algorithm+Creator;Open+Source+Contributor;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ahmed-GoCode&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+<!-- Animated Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&customColorList=12"/>
+
+<!-- Animated Divider -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&customColorList=12"/>
+
+## 🌐 Connect with Me
+
+<!-- Social Media Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=400&lines=Let's+Connect+and+Collaborate!;Building+the+Future+Together" alt="Connect Animation" />
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Ahmedgocode)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@38a)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Ahmed-GoCode)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ekac)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ahmad_GoCode)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad1mtik@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Ahmed-GoCode)
+
+## 💻 Programming Languages
+
+<!-- Languages Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Polyglot+Programmer;Mastering+Multiple+Languages;Code+in+Every+Stack" alt="Languages Animation" />
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) 
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
+![EA](https://img.shields.io/badge/EA-%23FF6B00.svg?style=flat&logo=expert-advisor&logoColor=white) 
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
+
+## 🛠️ Tech & Tools
+
+<!-- Tech Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=450&lines=Full+Stack+Arsenal;Cloud+%26+DevOps+Expert;Modern+Tech+Stack" alt="Tech Animation" />
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)  
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)  
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) 
+![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=flat&logo=alibabacloud&logoColor=white)  
+
+## 🎨 Creative & Design
+
+<!-- Creative Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2800&pause=600&color=58A6FF&center=true&vCenter=true&width=480&lines=Digital+Artist;UI%2FUX+Designer;Creative+Problem+Solver;Visual+Storyteller" alt="Creative Animation" />
+
+![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=flat&logo=adobe-photoshop&logoColor=white) 
+![Illustrator](https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=flat&logo=adobe-illustrator&logoColor=white) 
+![Lightroom](https://img.shields.io/badge/lightroom-31A8FF.svg?style=flat&logo=adobe-lightroom&logoColor=white)  
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) 
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) 
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) 
+![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white) 
+
+## 📊 GitHub Stats
+
+<!-- Stats Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=📈+Coding+Statistics;🚀+Performance+Metrics;💪+Contribution+Power" alt="Stats Animation" />
+
+<div align="center">
+  
+### 🔥 My GitHub Journey
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmed-GoCode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Ahmed-GoCode&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=58A6FF&currStreakLabel=1F6FEB" />
+
+### 💫 Language Universe
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-GoCode&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=12" />
+
+### ⚡ Activity Graph
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-GoCode&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9" />
+
+### 🎯 Profile Summary
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-GoCode&theme=github_dark" />
+
+## 🏆 Achievements
+
+<!-- Achievements Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=450&lines=🏆+GitHub+Champion;🌟+Code+Master;💎+Elite+Developer" alt="Achievements Animation" />
+
+![](https://github-profile-trophy.vercel.app/?username=Ahmed-GoCode&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://github-contributor-stats.vercel.app/api?username=Ahmed-GoCode&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+![](https://github-readme-stats.vercel.app/api?username=Ahmed-GoCode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&show_owner=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ahmed-GoCode&icon=2&color=1)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Ahmad-Gocode) 
+[![](https://visitcount.itsvg.in/api?id=Ahmed-GoCode&icon=5&color=6)](https://visitcount.itsvg.in)  
+
+### ☕ Support My Work
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Ahmad-Gocode)  
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0d1117&height=120&section=footer&animation=twinkling"/>
+
+</div>
