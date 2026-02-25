@@ -102,8 +102,11 @@ Engineer • Coder • Cyber Explorer • Trader
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmed-GoCode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" />
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Ahmed-GoCode&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=58A6FF&currStreakLabel=1F6FEB" />
 
-### 💫 Language Universe
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-GoCode&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=12" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-GoCode&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-GoCode&show_icons=true)
 
 ### ⚡ Activity Graph
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-GoCode&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9" />
