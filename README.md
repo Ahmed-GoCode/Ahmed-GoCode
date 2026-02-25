@@ -90,12 +90,6 @@ Engineer • Coder • Cyber Explorer • Trader
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) 
 ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white) 
 
-## 📊 GitHub Stats
-
-<!-- Stats Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=📈+Coding+Statistics;🚀+Performance+Metrics;💪+Contribution+Power" alt="Stats Animation" />
-
-<div align="center">
   
 ### 🔥 My GitHub Journey
   
